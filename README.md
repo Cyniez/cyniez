@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://www.shutterstock.com/image-vector/anime-cartoon-characters-cute-cats-600nw-2418102205.jpg"  />
-</div>
-
 ###
 
 <p align="center">Meow 🐈<br>I'm Cyniez.</p>
@@ -11,11 +7,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -72,9 +64,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyniez&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyniez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
